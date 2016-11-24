@@ -40,7 +40,7 @@ var pgsqlStore = new PGSQLStore({
     db: db
 });
 // co(pgsqlStore.setup()); // init session
-app.keys = ['pony', 'YR^&*^YG^&^&^*^&^&FHJGDTR56467789trfdytf67857463t'];
+app.keys = ['pony', 'erw@#$44rr3#@$#5633tert$%%@#$@!#EDWDFERT^&^%4332eq34532'];
 app.use(session({
     rolling: true,
     store: pgsqlStore,
